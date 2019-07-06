@@ -1,7 +1,7 @@
 *.iml
 *.class
 *.DS_Store
-.idea
+#.idea
 targetText
 com
 target
